@@ -1,0 +1,4 @@
+cmd : composer update ( neu khong duoc dung COMPOSER_MEMORY_LIMIT=-1 composer update)
+laravel log : sudo chmod -R 777 storage
+hoac : sudo chmod -R 777 storage/logs/laravel.log
+"test private"

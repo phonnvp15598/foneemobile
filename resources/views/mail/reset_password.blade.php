@@ -1,0 +1,1 @@
+<p>Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi. Click <a href="{{$route}}"> vào đây </a> để lấy lại mật khẩu</p>
